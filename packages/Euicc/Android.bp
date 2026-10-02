@@ -7,7 +7,6 @@
 phony {
     name: "XiaomiEuicc",
     required: [
-        "EuiccPolicy",
         "EuiccPolicyXiaomi",
     ],
 }
